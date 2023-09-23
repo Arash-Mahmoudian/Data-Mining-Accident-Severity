@@ -1,4 +1,4 @@
-### Introduction
+<h2> Introduction</h2>
 The financial and societal impact of traffic accidents exceeds hundreds of billions of dollars every year. Therefore, reducing these accidents, remarkably major ones is always an important challenge. For this, understanding the nature of these incidents can help to take proactive actions and reduce the size of the impact. This can be done in diverse approaches. One approache is  accident severity prediction. In this project US Car Accident dataset collected from more than four millions accidents all over the nation was used to build a Machin Leaning
 model to predict accident severity. The dataset is available in Kaggle.https://www.kaggle.com/code/jingzongwang/usa-car-accidents-severity-prediction
 
